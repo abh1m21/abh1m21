@@ -45,7 +45,7 @@ to people. I'm drawn to problems that are genuinely hard to get right: the ones 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-## Let's connect
+## Let's Connect
 [LinkedIn](https://www.linkedin.com/in/abhignan-muppavaram-54777b212/) · abhignan.muppa@gmail.com
 
 

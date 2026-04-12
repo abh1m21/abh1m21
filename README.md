@@ -1,12 +1,9 @@
-# Abhignan Muppavaram
+<h1 align="center">Abhignan Muppavaram</h1>
+
 ### MS CS @ UMass Amherst
 
 I love building things that work in the real world and provide real value 
-to people. I'm drawn to problems that are genuinely hard to get right, 
-where the gap between a working demo and a production system is where 
-all the interesting engineering lives. Currently exploring what it means 
-to build a company from scratch.
-
+to people. I'm drawn to problems that are genuinely hard to get right: the ones where the gap between a working demo and a production system is where all the interesting engineering lives.
 
 ## Stack
 
@@ -48,7 +45,7 @@ to build a company from scratch.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-## Links
+## Let's connect
 [LinkedIn](https://www.linkedin.com/in/abhignan-muppavaram-54777b212/) · abhignan.muppa@gmail.com
 
 

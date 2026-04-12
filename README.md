@@ -1,6 +1,12 @@
 # Abhignan Muppavaram
 ### MS CS @ UMass Amherst
 
+I love building things that work in the real world and provide real value 
+to people. I'm drawn to problems that are genuinely hard to get right, 
+where the gap between a working demo and a production system is where 
+all the interesting engineering lives. Currently exploring what it means 
+to build a company from scratch.
+
 
 ## Stack
 

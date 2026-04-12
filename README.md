@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**abh1m21/abh1m21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Abhignan Muppavaram
 
-Here are some ideas to get you started:
+MS CS @ UMass Amherst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build AI systems and ship them to production. My work spans LLMs, 
+distributed infrastructure, and real-world deployment.
+
+## Stack
+Python · PyTorch · FastAPI · Redis · PostgreSQL · Docker · LangChain · HuggingFace · React
+
+## Links
+[LinkedIn](https://linkedin.com/in/abhignan) · abhignan.muppa@gmail.com
+
+

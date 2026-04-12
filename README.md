@@ -1,10 +1,8 @@
-## Hi there 👋
-
 # Abhignan Muppavaram
 
 MS CS @ UMass Amherst
 
-I build AI systems and ship them to production. My work spans LLMs, 
+I build AI systems and ship them to production. My work spans LLMs,
 distributed infrastructure, and real-world deployment.
 
 ## Stack

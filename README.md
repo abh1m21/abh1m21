@@ -1,6 +1,5 @@
 # Abhignan Muppavaram
-
-## MS CS @ UMass Amherst
+### MS CS @ UMass Amherst
 
 
 ## Stack
